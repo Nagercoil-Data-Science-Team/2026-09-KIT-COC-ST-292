@@ -1,1 +1,3 @@
-# 2026-09-KIT-COC-ST-292
+Title: An Intelligent Deep Learning-Based Optimized Framework for Energy-Efficient Resource Allocation in Cloud Computing
+
+Domain: Cloud computing,Reinforcement learning
